@@ -1,7 +1,6 @@
 # 水果篮子
 
-[简体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHS.7z)  
-[繁体中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba_BD_CHT.7z)
+[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Fruba_BD_zho.7z)
 
 所需字体：
 ```
@@ -33,8 +32,7 @@ Source Han Serif CN SemiBold
 
 # 水果篮子 2nd Season
 
-[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHS.7z)  
-[繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba2_Web_CHT.7z)
+[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Fruba2_BD_zho.7z)
 
 所需字体：
 ```
@@ -67,8 +65,7 @@ HiraginoMin W5
 
 # 水果篮子 The Final
 
-[简体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba3_Web_CHS.7z)  
-[繁体中文Web合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/fruba/fruba3_Web_CHT.7z)
+[简繁中文BD合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Fruba3_BD_zho.7z)
 
 所需字体：
 ```
@@ -82,6 +79,10 @@ Gen Jyuu Gothic Regular
 华康手札体W5
 華康手札體W5
 ```
+## Changelog
+
+1. 2022-09-04 Ep.08 修复样式错误
+
 
 ![](https://nekomoe.pages.dev/images/2019-04/fruba.png)
 ![](https://nekomoe.pages.dev/images/2021-04/fruba-final.jpg)
