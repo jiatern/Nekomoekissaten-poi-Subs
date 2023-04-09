@@ -4,9 +4,7 @@
 
 内含正片01-12
 
-[Web简日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Oregairu/Oregairu_Web_JPSC.7z)
-
-[Web繁日双语合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/raw/master/Oregairu/Oregairu_Web_JPTC.7z)
+[简繁日双语 BD 合集](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-poi-Subs/releases/download/pre/Oregairu_BD_JPCH.7z)
 
 所需字体：
 ```
